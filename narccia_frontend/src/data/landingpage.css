@@ -1,0 +1,253 @@
+.demo{
+    width: 1905px; height: 1800px; position: relative; overflow: hidden; background: #151f29; margin-left: -10px; 
+    position: relative;
+}
+body{
+    background: #151f29;
+}
+.h11{
+    margin-top: 30px  ;
+    margin-left:580px;
+    font-size: 140px;
+    position: absolute;
+     color:white;
+     font-family: 'Source Code Pro', monospace;
+}
+.h12{
+    margin-top: 70px;
+    margin-left:1323px;
+    position: absolute;
+    font-size: 20px;
+    color:white;
+    font-weight: 700;
+    font-family: 'Source Code Pro', monospace;
+}
+.h13{
+    margin-top: 230px ;
+    margin-left:870px;
+    position: absolute;
+    font-size: 20px;
+    color:white;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 700;
+}
+.h14{
+    margin-top: 420px ;
+    margin-left:1790px;
+    position: absolute;
+    font-size: 50px;
+    color:white;
+    font-family: 'Source Code Pro', monospace;
+}
+.h15{
+    margin-top: 520px ;
+    margin-left:1760px;
+    position: absolute;
+    font-size: 50px;
+    color:white;
+    font-family: 'Source Code Pro', monospace;
+}
+.h16{
+    margin-top: 620px ;
+    margin-left:1760px;
+    position: absolute;
+    font-size: 50px;
+    color:white;
+    font-family: 'Source Code Pro', monospace;
+}
+.h17{
+    margin-top: 475px ;
+    margin-left:1670px;
+    position: absolute;
+    font-size: 18px;
+    color:white;
+    font-family: 'Source Code Pro', monospace;
+}
+.h18{
+    margin-top: 575px ;
+    margin-left:1680px;
+    position: absolute;
+    font-size: 18px;
+    color:white;
+    font-family: 'Source Code Pro', monospace;
+}
+.h19{
+    margin-top: 675px ;
+    margin-left:1680px;
+    position: absolute;
+    font-size: 18px;
+    color:white;
+    font-family: 'Source Code Pro', monospace;
+}
+.h20 {
+    margin-top: 550px ;
+    margin-left:50px ;
+    position: absolute;
+    font-size: 25px;
+    color:white;
+    font-family: 'Source Code Pro', monospace;
+    opacity: .5;
+  }
+.h21{
+
+    margin-top: 780px;
+    margin-left:180px;
+    position: absolute;
+    font-size: 30px;
+    color:white;
+    opacity: 0.5;
+}
+.h22{
+
+    margin-top: 778px;
+    margin-left:230px;
+    position: absolute;
+    font-size: 30px;
+    color:white;
+    opacity: 0.5;
+    font-family: 'Source Code Pro', monospace;
+}
+.h23{
+
+    margin-top: 780px;
+    margin-left:1520px;
+    position: absolute;
+    font-size: 30px;
+    color:white;
+    opacity: 0.5;
+}
+.h24{
+
+    margin-top: 778px;
+    margin-left:1560px;
+    position: absolute;
+    font-size: 30px;
+    color:white;
+    opacity: 0.5;
+    font-family: 'Source Code Pro', monospace;
+}
+.h25{
+
+    margin-top: 778px;
+    margin-left:1060px;
+    position: absolute;
+    font-size: 30px;
+    color:white;
+    opacity: 0.5;
+}
+.h26{
+    margin-top: 778px;
+    margin-left:1100px;
+    position: absolute;
+    font-size: 30px;
+    color:white;
+    opacity: 0.5;
+    font-family: 'Source Code Pro', monospace;
+}
+.h26:hover{
+    opacity: 0.90;
+}
+.h27{
+    margin-top: 778px;
+    margin-left:600px;
+    position: absolute;
+    font-size: 30px;
+    color:white;
+    opacity: 0.5;
+}
+.h28{
+    margin-top: 778px;
+    margin-left:640px;
+    position: absolute;
+    font-size: 30px;
+    color:white;
+    opacity: 0.5;
+    font-family: 'Source Code Pro', monospace;
+}
+.s10{
+    margin-top: 920px;
+    margin-left:450px;
+    position: absolute;
+    font-size: 130px;
+    color:white;
+    font-family: 'Source Code Pro', monospace;
+}
+.s11{
+    margin-top: 1100px;
+    margin-left:400px;
+    position: absolute;
+    font-size: 40px;
+    color:white;
+    font-family: 'Source Code Pro', monospace;
+}
+.s12{
+    margin-top: 1350px;
+    margin-left:100px;
+    width: 360px;
+    height: 360px;
+    position: absolute;
+    background-color: #283849;
+    font-family: 'Source Code Pro', monospace;
+}
+.s13{
+    margin-top: 1350px;
+    margin-left:400px;
+    width: 360px;
+    height: 360px;
+    position: absolute;
+    background-color: #f7f874;
+    font-family: 'Source Co2de Pro', monospace;
+}
+.s14{
+    margin-top: 1350px;
+    margin-left:700px;
+    width: 360px;
+    height: 360px;
+    position: absolute;
+    background-color: #283849;
+    font-family: 'Source Code Pro', monospace;
+}
+.flex-container {
+    display: flex;
+    margin-left:190px ;
+    margin-top: 1350px;
+  }
+  
+  .flex-container > div {
+    
+    background-color: #3b5979;
+    border-radius: 25px;
+    margin-left: 100px;
+    padding: 5px;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    width: 350px;
+    height: 350px;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -ms-transition: all .5s ease;
+    transition: all .5s ease;
+  }
+  .flex-container div img{
+    width: 150px;
+    padding-left: 0px;
+  }
+
+.flex-container .active{
+    background-color: #f7f874;
+    color: rgb(0, 0, 0);
+}
+.flex-container .active div{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 25px;
+    font-weight: 900;
+    
+}
+.flex-container div:hover {
+    width: 400px;
+    height: 400px;
+    padding-left: 10px;
+  }
+  

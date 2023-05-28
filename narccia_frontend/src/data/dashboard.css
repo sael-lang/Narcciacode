@@ -1,0 +1,251 @@
+.backg{
+  width: 1870px; height: 922px; position: relative; overflow: hidden; background:#151f29; margin-left: -10px; 
+  margin-top: -10px;
+    position: relative;
+  font-family: 'Source Code Pro', monospace;
+}
+.side1{
+  background-color: black;
+  margin-top: 60px;
+  margin-left: 20px;
+  width: 500px;
+  height: 800px;
+  position: absolute;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+  opacity: 50%;
+
+}
+.middle1{
+  background-color: white;
+  margin-top: 60px;
+  margin-left: 520px;
+  width: 1350px;
+  height: 800px;
+  position: absolute;
+  opacity: 50%; 
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+.middle1 .setting1{
+  background-color: rgb(5, 5, 5);
+  margin-top: 0px;
+  margin-left: 1265px;
+  width: 100px;
+  height: 800px;
+  position: absolute;
+  opacity: 50%; 
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+  color: white;
+}
+.para{
+  margin-top: 180px;
+  margin-left: 1275px;
+  font-weight: bolder;
+  position: absolute; 
+  writing-mode: vertical-rl;
+  font-size: 45px;
+ opacity: 100%;
+}
+.middle1 .box1{
+  background-color: rgb(5, 5, 5);
+  position: absolute;
+  opacity: 50%;
+  margin-top: 250px;
+  margin-left: 95px;
+  width: 350px;
+  height: 350px;
+  border-radius: 23px;
+}
+.bo{
+  color: #000;
+  position: absolute;
+  margin-top: 290px;
+  margin-left: 145px;
+  font-size: 25px;
+  font-weight: 900;
+}
+.ao{
+  position: absolute;
+  color: #000;
+  margin-top: 290px;
+  margin-left: 555px;
+  font-size: 25px;
+  font-weight: 900;
+}
+.co{
+  position: absolute;
+  margin-top: 290px;
+  margin-left: 945px;
+  font-size: 25px;
+  font-weight: 900;
+}
+.bd{
+  color: #000;
+  position: absolute;
+  margin-top: 320px;
+  margin-left: 145px;
+  font-weight: 900;
+  opacity: 60%;
+}
+.a{
+  position: absolute;
+  color: #000;
+  margin-top: 320px;
+  margin-left: 555px;
+  opacity: 60%;
+  font-weight: 900;
+}
+.c{
+  position: absolute;
+  color: #000;
+  opacity: 60%;
+  margin-top: 320px;
+  margin-left: 945px;
+  font-weight: 900;
+}
+.bda{
+  color: black;
+  position: absolute;
+  margin-top: 460px;
+  margin-left: 245px;
+  font-weight: 900;
+  font-size: 30px;
+}
+.aa{
+  position: absolute;
+  color: #000;
+  margin-top: 460px;
+  margin-left: 615px;
+  font-weight: 900;
+  font-size: 30px;
+}
+.caa{
+  position: absolute;
+  color: #000;
+  margin-top: 460px;
+  margin-left: 1005px;
+  font-weight: 900;
+  font-size: 30px;
+}
+.bdad{
+  color: black;
+  position: absolute;
+  margin-top: 400px;
+  margin-left: 205px;
+  font-weight: 900;
+  font-size: 30px;
+}
+.aad{
+  position: absolute;
+  color: #000;
+  margin-top: 400px;
+  margin-left: 575px;
+  font-weight: 900;
+  font-size: 30px;
+}
+.caad{
+  position: absolute;
+  color: #000;
+  margin-top: 400px;
+  margin-left: 975px;
+  font-weight: 900;
+  font-size: 30px;
+}
+.middle1 .box2{
+  background-color: rgb(5, 5, 5);
+  position: absolute;
+  opacity: 50%;
+  margin-top: 250px;
+  margin-left: 475px;
+  width: 350px;
+  height: 350px;
+  border-radius: 23px;
+}
+.middle1 .box3{
+  background-color: rgb(5, 5, 5);
+  position: absolute;
+  opacity: 50%;
+  margin-top: 250px;
+  margin-left: 855px;
+  width: 350px;
+  height: 350px;
+  border-radius: 23px;
+}
+.middle1 .search{
+  background-color: rgb(5, 5, 5);
+  position: absolute;
+  opacity: 50%;
+  margin-top: 650px;
+  margin-left: 15px;
+  width: 500px;
+  height: 100px;
+  border-radius: 23px;
+}
+.sea{
+  position: absolute;
+  margin-top: 675px;
+  margin-left: 40px;
+  font-size: 30px;
+  text-decoration:none;
+  color: rgb(5, 5, 5);
+  font-weight: 900;
+}
+.middle1 .profile{
+  background-color: rgb(5, 5, 5);
+  position: absolute;
+  opacity: 50%;
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  margin-top: 30px;
+  margin-left: 15px;
+}
+.side1 .upper{
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  opacity: 50%;
+  margin-top: 30px;
+  margin-left: 55px;
+  width: 350px;
+  height: 400px;
+  border-radius: 23px;
+  font-weight: 900;
+  font-size: 22px;
+}
+.pa{
+  margin-left: 30px;
+}
+.par{
+  color: black;
+  position: absolute;
+  margin-top: 90px;
+  margin-left: 555px;
+  opacity: 100%;
+  font-weight: 1000;
+  font-size: 25px;
+}
+.side1 .lower{
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  opacity: 50%;
+  margin-top: 570px;
+  margin-left: 55px;
+  width: 400px;
+  height: 200px;
+  border-radius: 23px;
+}
+.middle1 .name1{
+  color: black;
+  position: absolute;
+  margin-top: 40px;
+  margin-left: 135px;
+  font-size: large;
+  width: 200px;
+  height: 100px;
+  border-radius: 23px;
+}
+
+
+

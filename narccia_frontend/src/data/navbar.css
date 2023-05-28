@@ -1,0 +1,36 @@
+.topnav {
+    margin-top: -10px;
+    margin-left: -10px;
+    overflow: hidden;
+    width: 1905px;
+    background-color: #151f29;
+    padding-top: 10px;
+    font-family: 'Source Code Pro', monospace;
+  }
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 10px;
+    margin-left: 60px;
+    text-decoration: none;
+    font-size: 21px;
+  }
+  .topnav a:hover{
+     background-color:  #f0f04e;
+     color: #151f29; 
+     clip-path: polygon(76% 0, 100% 38%, 100% 100%, 0 98%, 0 0);
+  }
+  .topnav a.active {
+    margin-left:50px;
+    /* background-color:  #f7f874; */
+    /* color:  #151f29; */
+    font-weight: 900;
+    margin-right: 300px;
+  }
+  .topnav a.ac {
+    background-color: #151f29;
+    margin-left: 50px;
+    color:   #f7f874;
+    margin-right: 350px;
+}
